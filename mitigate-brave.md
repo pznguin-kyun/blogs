@@ -25,7 +25,7 @@ Brave is a good privacy-centric browser with many interesting features. However,
     - [X] Top sites
     - [X] Browsing history
     - [X] Bookmarks
-    - [] Leo AI Assistant
+    - [ ] Leo AI Assistant
 ## Shields
 - Tracker & ads blocking: `Aggressive`
 ## Privacy and security
