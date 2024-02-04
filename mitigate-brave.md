@@ -74,15 +74,15 @@ Brave is a good privacy-centric browser with many interesting features. However,
 - Continue running background apps when Brave is closed: `Off`
 
 # Flags
-- [Launch Brave Ads as an in-process service](brave://flags/#brave-ads-should-launch-brave-ads-as-an-in-process-service): `Disabled`
-- [Should always run Brave Ads service](brave://flags/#brave-ads-should-always-run-brave-ads-service): `Disabled`
-- [Allow Brave Ads to fallback from native to custom push notifications](brave://flags/#brave-ads-allowed-to-fallback-to-custom-push-notification-ads): `Disabled`
-- [Brave News prompts on New Tab Page](brave://flags/#brave-news-peek): `Disabled`
-- [Enable Brave Wallet](brave://flags/#native-brave-wallet): `Disabled`
-- [Enable NFT pinning](brave://flags/#enable-nft-pinning): `Disabled`
-- [Enable Brave Rewards VBAT notices](brave://flags/#brave-rewards-vbat-notice): `Disabled`
-- [Enable Gemini for Brave Rewards](brave://flags/#brave-rewards-gemini): `Disabled`
-- [Brave AI Chat](brave://flags/#brave-ai-chat): `Disabled`
+- Launch Brave Ads as an in-process service (`brave://flags/#brave-ads-should-launch-brave-ads-as-an-in-process-service`): `Disabled`
+- Should always run Brave Ads service (`brave://flags/#brave-ads-should-always-run-brave-ads-service`): `Disabled`
+- Allow Brave Ads to fallback from native to custom push notifications (`brave://flags/#brave-ads-allowed-to-fallback-to-custom-push-notification-ads`): `Disabled`
+- Brave News prompts on New Tab Page (`brave://flags/#brave-news-peek`): `Disabled`
+- Enable Brave Wallet (`brave://flags/#native-brave-wallet`): `Disabled`
+- Enable NFT pinning (`brave://flags/#enable-nft-pinning`): `Disabled`
+- Enable Brave Rewards VBAT notices (`brave://flags/#brave-rewards-vbat-notice`): `Disabled`
+- Enable Gemini for Brave Rewards (`brave://flags/#brave-rewards-gemini`): `Disabled`
+- Brave AI Chat (`brave://flags/#brave-ai-chat`): `Disabled`
 
 ## Extensions
 This is optional, you can install it if you want.
