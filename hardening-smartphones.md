@@ -3,11 +3,12 @@ In this blog I will show you how to harden your phone, make it more private and 
 
 # Table of Contents
 - [Choosing a phone to harden](#choosing-a-phone-to-harden)
+    - [Some tips to choose a phone](#some-tips-to-choose-a-phone)
 - [Easy way](#easy-way)
-    - [General](##general)
-    - [Sensors](##sensors)
-    - [Network and location](##network-and-location)
-    - [Language and Input](##language-and-input)
+    - [General](#general)
+    - [Sensors](#sensors)
+    - [Network and location](#network-and-location)
+    - [Language and Input](#language-and-input)
 - [Advanced way](#advanced-way)
 
 # Choosing a phone to harden
@@ -24,7 +25,7 @@ In this blog I will show you how to harden your phone, make it more private and 
 ## General
 - Disable, uninstall all Google apps (Google is evil).
 - Debloat apps, disable all telemetry on your phone. You can use ADB or Shizuku to uninstall unnecessary system apps. Bloated apps make your phone slow and it's always working to track you.
-- Use FOSS and libre apps. You can use F-Droid to install FOSS apps like NewPipe or Mull. If you don't know which app to use, you can check out my list [here](https://example.com)
+- Use FOSS and libre apps. You can use F-Droid to install FOSS apps like NewPipe or Mull. If you don't know which app to use, you can check out my list [here](https://github.com/p3nguin-kun/blogs/blob/main/android-apps-i-use.md)
 - Don't install too many apps.
 - Always check for software updates.
 
@@ -38,7 +39,7 @@ In this blog I will show you how to harden your phone, make it more private and 
 - Disable 'Turn on Wi-Fi automatically'
 - Disable 'Hotspot 2.0'
 - Disable location and location services (like "Find my phone", ...). This may enable anyone with access to your Google account (e.g. if hacked or by law enforcement) to track your location.
-- Use privacy browser. I recommend to use Mull (hardened Firefox Android). It has disabled telemetry by default so you don't need to tweak it much. If you use Brave, you need to mitigate it by following [this guide]().
+- Use privacy browser. I recommend to use Mull (hardened Firefox Android). It has disabled telemetry by default so you don't need to tweak it much. If you use Brave, you need to mitigate it by following [this guide](https://github.com/p3nguin-kun/blogs/blob/main/mitigate-brave.md).
 - Use a VPN. I Recommend RiseupVPN because it's free, open-source and does not collect any information.
 - Use firewall to block apps connect to internet. You can use NetGuard or RethinkDNS, they can work without root permission.
 
