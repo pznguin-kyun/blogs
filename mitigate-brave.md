@@ -86,7 +86,7 @@ Brave is a good privacy-centric browser with many interesting features. However,
 - Enable experimental Brave VPN (`brave://flags/#brave-vpn`): `Disabled`
 - Enable DoH for Brave VPN (`brave://flags/#brave-vpn-dns`): `Disabled`
 
-## Extensions
+# Extensions
 This is optional, you can install it if you want.
 - [uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 - [Search by Image](https://chromewebstore.google.com/detail/search-by-image/cnojnbdhbhnkbcieeekonklommdnndci)
