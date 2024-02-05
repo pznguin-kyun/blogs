@@ -37,7 +37,7 @@ Brave is a good privacy-centric browser with many interesting features. However,
 - Private window with Tor: `Off`
 ## Brave Rewards
 - Show Brave Rewards icon in address bar: `Off`
-## Web1
+## Web3
 ### Wallet
 - Default Ethereum wallet: `Extensions (no fallback)`
 - Default Solana wallet: `Extensions (no fallback)`
