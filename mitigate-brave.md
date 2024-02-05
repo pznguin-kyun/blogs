@@ -83,6 +83,8 @@ Brave is a good privacy-centric browser with many interesting features. However,
 - Enable Brave Rewards VBAT notices (`brave://flags/#brave-rewards-vbat-notice`): `Disabled`
 - Enable Gemini for Brave Rewards (`brave://flags/#brave-rewards-gemini`): `Disabled`
 - Brave AI Chat (`brave://flags/#brave-ai-chat`): `Disabled`
+- Enable experimental Brave VPN (`brave://flags/#brave-vpn`): `Disabled`
+- Enable DoH for Brave VPN (`brave://flags/#brave-vpn-dns`): `Disabled`
 
 ## Extensions
 This is optional, you can install it if you want.
