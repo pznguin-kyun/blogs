@@ -28,6 +28,8 @@ In this blog I will show you how to harden your phone, make it more private and 
 - Use FOSS and libre apps. You can use F-Droid to install FOSS apps like NewPipe or Mull. If you don't know which app to use, you can check out my list [here](https://github.com/p3nguin-kun/blogs/blob/main/android-apps-i-use.md)
 - Don't install too many apps.
 - Always check for software updates.
+- Use Password instead of Pattern and PIN
+- Don't use biometric security like Face Unlock or Fingerprint
 
 ## Sensors
 - (Android 12 and higher) Disable Camera access and Mic access
@@ -40,7 +42,7 @@ In this blog I will show you how to harden your phone, make it more private and 
 - Disable 'Hotspot 2.0'
 - Disable location and location services (like "Find my phone", ...). This may enable anyone with access to your Google account (e.g. if hacked or by law enforcement) to track your location.
 - Use privacy browser. I recommend to use Mull (hardened Firefox Android). It has disabled telemetry by default so you don't need to tweak it much. If you use Brave, you need to mitigate it by following [this guide](https://github.com/p3nguin-kun/blogs/blob/main/mitigate-brave.md).
-- Use a VPN. I Recommend RiseupVPN because it's free, open-source and does not collect any information.
+- Use a VPN. I recommed Mullvad and RiseupVPN because it's free (nah, mullvad is paid), open-source and does not collect any information.
 - Use firewall to block apps connect to internet. You can use NetGuard or RethinkDNS, they can work without root permission.
 
 ## Language and Input
