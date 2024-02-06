@@ -43,7 +43,7 @@ Brave is a good privacy-centric browser with many interesting features. However,
 - Default Solana wallet: `Extensions (no fallback)`
 ### IPFS
 - Method to resolve IPFS resources: `Disabled`
-### Web1 Domains
+### Web3 Domains
 - Resolve Unstoppable Domains domain names: `Disabled`
 - Resolve Ethereum Name Service (ENS) domain names: `Disabled`
 - Resolve Solana Name Service (SNS) domain names: `Disabled`
