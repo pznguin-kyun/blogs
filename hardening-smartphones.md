@@ -43,9 +43,9 @@ In this blog I will show you how to harden your phone, make it more private and 
 - Disable location and location services (like "Find my phone", ...). This may enable anyone with access to your Google account (e.g. if hacked or by law enforcement) to track your location.
 
 ## Application
-- Use FOSS and libre apps. You can use F-Droid to install FOSS apps like NewPipe or Mull. If you don't know which app to use, you can check out my list [here](https://github.com/p3nguin-kun/blogs/blob/main/android-apps-i-use.md)
-- Ditch Google Play Store and use FOSS app store like F-Droid and Aurora Store (incognito pls).
-- Use privacy browser. I recommend to use Mull (hardened Firefox Android). It has disabled telemetry by default so you don't need to tweak it much. If you use Brave, you need to mitigate it by following [this guide](https://github.com/p3nguin-kun/blogs/blob/main/mitigate-brave.md).
+- Use FOSS and libre apps. You can use [F-Droid](https://f-droid.org/) to install FOSS apps like NewPipe or Mull. If you don't know which app to use, you can check out my list [here](https://github.com/p3nguin-kun/blogs/blob/main/android-apps-i-use.md)
+- Ditch Google Play Store and use FOSS app store like [F-Droid](https://f-droid.org/) and [Aurora Store](https://f-droid.org/packages/com.aurora.store/) (incognito pls).
+- Use privacy browser. I recommend to use [Mull](https://f-droid.org/packages/us.spotco.fennec_dos/) (hardened Firefox Android). It has disabled telemetry by default so you don't need to tweak it much. If you use [Brave](https://brave.com/), you need to mitigate it by following [this guide](https://github.com/p3nguin-kun/blogs/blob/main/mitigate-brave.md).
 - Use a VPN. I recommend Mullvad (paid, EU based, [police tried to raid mullvad's office](https://www.theverge.com/2023/4/21/23692580/mullvad-vpn-raid-sweden-police)), RiseupVPN (free, US based) and ProtonVPN (free/paid, EU based, [not trustworthy](https://www.youtube.com/watch?v=QCx_G_R0UmQ)).
 - Use firewall to block apps connect to internet. You can use NetGuard or RethinkDNS, they can work without root permission.
 
