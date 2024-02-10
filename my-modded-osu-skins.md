@@ -10,7 +10,7 @@ I'm too lazy to make my own skin
 - Cursor: my own cursor
 - Other things: input overlay text color, sliderb, spinner, applause, pause-loop, seeya, ...
 
-## [Incandescent Cherry (p3nguin-kun ver.)](https://github.com/p3nguin-kun/personal-dotfiles/raw/main/osu/skins/incandescent%20cherry%20(p3nguin-kun%20ver.).osk">incandescent cherry (p3nguin-kun ver.))
+## [Incandescent Cherry (p3nguin-kun ver.)](https://github.com/p3nguin-kun/personal-dotfiles/raw/main/osu/skins/incandescent%20cherry%20(p3nguin-kun%20ver.).osk)
 - It is suitable for EZ
 - Original skin: [Incandescent](https://osu.ppy.sh/community/forums/topics/537156)
 - Colorscheme: [Stardust's wave](https://github.com/Stardust-kyun/dotfiles)
