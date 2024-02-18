@@ -85,6 +85,8 @@ Brave is a good privacy-centric browser with many interesting features. However,
 - Brave AI Chat (`brave://flags/#brave-ai-chat`): `Disabled`
 - Enable experimental Brave VPN (`brave://flags/#brave-vpn`): `Disabled`
 - Enable DoH for Brave VPN (`brave://flags/#brave-vpn-dns`): `Disabled`
+- SafeBrowsing (`brave://flags/#brave-safe-browsing`): `Disabled`
+- Enable Brave Super Referral (`brave://flags/#brave-super-referral`): `Disabled`
 
 # Extensions
 This is optional, you can install it if you want.
