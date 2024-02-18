@@ -72,6 +72,8 @@ Brave is a good privacy-centric browser with many interesting features. However,
 - Check for spelling errors when you type text on web pages: `Off`
 ## System
 - Continue running background apps when Brave is closed: `Off`
+### Brave VPN
+- Use WireGuard protocol in Brave VPN: `Off`
 
 # Flags
 - Launch Brave Ads as an in-process service (`brave://flags/#brave-ads-should-launch-brave-ads-as-an-in-process-service`): `Disabled`
