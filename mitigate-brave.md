@@ -11,6 +11,8 @@ Brave is a good privacy-centric browser with many interesting features. However,
 # Homepage
 ## Background Image
 - Show Sponsored Image: `Off`
+## Top Sites
+- Top Sites: `Off`
 ## Cards
 - Cards: `Off`
 
@@ -33,8 +35,6 @@ Brave is a good privacy-centric browser with many interesting features. However,
 - Allow privacy-preserving product analytics (P1A): `Off`
 - Automatically send daily usage ping to Brave: `Off`
 - Automatically send diagnostic reports: `Off`
-### Tor windows
-- Private window with Tor: `Off`
 ## Brave Rewards
 - Show Brave Rewards icon in address bar: `Off`
 ## Web3
