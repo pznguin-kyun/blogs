@@ -55,7 +55,7 @@ mkfs.ext4 /dev/sda3
 ```
 mount /dev/sda3 /mnt
 mkdir /mnt/boot
-mount /dev/sda1 /boot
+mount /dev/sda1 /mnt/boot
 ```
 
 ## 8. Cài pkgs
