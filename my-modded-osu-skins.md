@@ -1,14 +1,14 @@
 # My modded osu! skins
 I'm too lazy to make my own skin
 
-## [Vain but better](https://github.com/p3nguin-kun/personal-dotfiles/raw/main/osu/skins/Vain%20but%20better.osk)
+## Vain but better ([DT](https://github.com/p3nguin-kun/dotfiles/raw/main/osu/skins/Vain%20but%20better%20(DT).osk), [EZ](https://github.com/p3nguin-kun/dotfiles/raw/main/osu/skins/Vain%20but%20better%20(EZ).osk), [Selyu](https://github.com/p3nguin-kun/dotfiles/raw/main/osu/skins/Vain%20but%20better%20(Selyu).osk))
 - This is my main skin
 - It is suitable for EZ, and HDDT too
 - Original skin: [Vain](https://osu.ppy.sh/community/forums/topics/1872336)
 - Colorschemes: [Stardust's wave](https://github.com/Stardust-kyun/dotfiles)
 - Hitsounds: [Incandescent](https://osu.ppy.sh/community/forums/topics/537156)
-- Cursor: my own cursor
-- Other things: input overlay text color, sliderb, spinner, applause, pause-loop, seeya, ...
+- Cursor: my own cursor (DT, EZ), re;owoTuna (Selyu)
+- Other things: @1x, input overlay text color, sliderb, spinner, applause, pause-loop, seeya, ...
 
 ## [Incandescent Cherry (p3nguin-kun ver.)](https://github.com/p3nguin-kun/personal-dotfiles/raw/main/osu/skins/incandescent%20cherry%20(p3nguin-kun%20ver.).osk)
 - It is suitable for EZ
