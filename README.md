@@ -6,4 +6,4 @@ p3nguin-kun's blogs
 - [Hardening smartphones](hardening-smartphones.md)
 - [List of tools I use for privacy and security](list-of-tools-i-use-for-privacy-and-security.md)
 - [Mitigate Brave](mitigate-brave.md)
-- [My modded osu! skins](my-modded-osu-skins.md)
+- [My osu! skins](my-osu-skins.md)
