@@ -1,9 +1,9 @@
 # My osu! skins
 ## pengu
 - Screenshots: [here](https://imgur.com/a/lgaOy7v)
-- [Selyu](https://github.com/p3nguin-kun/dotfiles/raw/main/osu/skins/~%20%23%20%E3%80%8C%20pengu%20%E2%9F%A8Selyu%E2%9F%A9%20%E3%80%8D%20%23%20~.osk)
-- [DT](https://github.com/p3nguin-kun/dotfiles/raw/main/osu/skins/~%20%23%20%E3%80%8C%20pengu%20%E2%9F%A8DT%E2%9F%A9%20%E3%80%8D%20%23%20~.osk)
-- [EZ](https://github.com/p3nguin-kun/dotfiles/raw/main/osu/skins/~%20%23%20%E3%80%8C%20pengu%20%E2%9F%A8EZ%E2%9F%A9%20%E3%80%8D%20%23%20~.osk)
+- [Selyu ver](https://github.com/p3nguin-kun/dotfiles/raw/main/osu/skins/~%20%23%20%E3%80%8C%20pengu%20%E2%9F%A8Selyu%E2%9F%A9%20%E3%80%8D%20%23%20~.osk)
+- [DT ver](https://github.com/p3nguin-kun/dotfiles/raw/main/osu/skins/~%20%23%20%E3%80%8C%20pengu%20%E2%9F%A8DT%E2%9F%A9%20%E3%80%8D%20%23%20~.osk)
+- [EZ ver](https://github.com/p3nguin-kun/dotfiles/raw/main/osu/skins/~%20%23%20%E3%80%8C%20pengu%20%E2%9F%A8EZ%E2%9F%A9%20%E3%80%8D%20%23%20~.osk)
 
 # Modded osu! skins
 I'm too lazy to make my own skin
