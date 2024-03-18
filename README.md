@@ -7,3 +7,4 @@ p3nguin-kun's blogs
 - [List of tools I use for privacy and security](list-of-tools-i-use-for-privacy-and-security.md)
 - [Mitigate Brave](mitigate-brave.md)
 - [My osu! skins](my-osu-skins.md)
+- [Skip Counter Strike 2's Training Day](skip-cs2-training-day.md)
