@@ -51,7 +51,6 @@ mount /dev/sda2 /mnt
 ## 7. Cài packages
 ```
 pacstrap /mnt base base-devel linux linux-firmware linux-headers vim mkinitcpio
-mkinitcpio -p linux
 ```
 
 ## 8. Fstab
