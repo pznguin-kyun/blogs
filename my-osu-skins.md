@@ -1,9 +1,9 @@
 # My osu! skins
 ## pengu v1
 - Screenshots: [here](https://imgur.com/a/lgaOy7v)
-- [Selyu ver](https://files.catbox.moe/u5ou4s.osk)
-- [DT ver](https://files.catbox.moe/2di1dj.osk)
-- [EZ ver](https://files.catbox.moe/6e6uya.osk)
+- [Selyu ver](https://files.catbox.moe/bzt31b.osk)
+- [DT ver](https://files.catbox.moe/7b77zr.osk)
+- [EZ ver](https://files.catbox.moe/zroua6.osk)
 
 # Modded osu! skins
 I'm too lazy to make my own skin
