@@ -61,7 +61,6 @@ mount /dev/sda1 /mnt/boot
 ## 8. Cài pkgs
 ```
 pacstrap /mnt base base-devel linux linux-firmware linux-headers vim mkinitcpio
-mkinitcpio -p linux
 ```
 
 ## 9. Fstab
