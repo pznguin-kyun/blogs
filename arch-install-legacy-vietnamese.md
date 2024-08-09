@@ -50,7 +50,7 @@ mount /dev/sda2 /mnt
 
 ## 7. Cài packages
 ```
-pacstrap /mnt base base-devel linux linux-firmware linux-headers vim mkinitcpio
+pacstrap /mnt base base-devel linux linux-firmware linux-headers
 ```
 
 ## 8. Fstab
@@ -67,20 +67,12 @@ arch-chroot /mnt
 ```
 ln -sf /usr/share/zoneinfo/Asia/Ho_Chi_Minh /etc/localtime
 hwclock --systohc
-vim /etc/locale.gen
-```
-
-Uncomment: `en_US.UTF-8 UTF-8`
-
-```
+sed -i -e "s/#en_US.UTF-8 UTF-8/en_US.UTF-8 UTF-8/g" /etc/locale.gen
 locale-gen
-```
-
-```
 echo LANG=en_US.UTF-8 >> /etc/locale.conf
 ```
 
-## 11. Hostname
+## 11. Thiết lập Hostname
 ```
 echo archlinux >> /etc/hostname (Co the thay archlinux bang ten hostname ban muon)
 vim /etc/hosts
@@ -102,16 +94,17 @@ passwd
 useradd -m penguin  (thay penguin bằng tên ng dùng bạn muốn)
 passwd penguin
 usermod -aG wheel,audio,video,optical,storage,power penguin
-EDITOR=vim visudo
+sed -i -e "s/#%wheel ALL=(ALL) ALL/%wheel ALL=(ALL) ALL/g" /etc/sudoers
 ```
-
-Thêm: `penguin ALL=(ALL) ALL` sau `root ALL=(ALL:ALL) ALL`
-Uncomment: `%wheel ALL=(ALL) ALL`
+## 14. Thiết lập mạng
+```
+pacman -S networkmanager
+systemctl enable NetworkManager
+```
 
 ## 14. Cài bootloader
 ```
-pacman -S grub networkmanager
-systemctl enable NetworkManager
+pacman -S grub
 grub-install /dev/sda
 grub-mkconfig -o /boot/grub/grub.cfg
 ```
@@ -123,4 +116,4 @@ umount -R /mnt
 reboot
 ```
 
-Hướng dẫn này chưa bao gồm cách cài giao diện người dùng, nếu bạn muốn sử dụng 1 giao diện đồ họa đơn giản, bạn có thể thử [penguinRice](https://github.com/p3nguin-kun/penguinRice)
+Hướng dẫn này chưa bao gồm cách cài giao diện người dùng, nếu bạn muốn sử dụng 1 giao diện đồ họa đơn giản, bạn có thể thử [pengurice](https://github.com/p3nguin-kun/pengurice)
