@@ -1,5 +1,5 @@
 # Blogs
-p3nguin-kun's blogs
+pznguin-kyun's blogs
 - [Android apps I use](android-apps-i-use.md)
 - [Arch Linux Legacy installation guide (Vietnamese)](arch-install-legacy-vietnamese.md)
 - [Arch Linux UEFI installation guide (Vietnamese)](arch-install-uefi-vietnamese.md)
